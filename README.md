@@ -17,6 +17,7 @@ The project uses historical workload traces to investigate resource utilisation 
 
 ## Tech Stack
 
+| Area | Technology |
 |---|---|
 | Data engineering and analysis | Python, Pandas, NumPy |
 | Backend | Java, Spring Boot |
