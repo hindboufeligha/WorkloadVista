@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Envoronment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local datasets and generated data
+data/
+datasets/
+WorkloadVista-Data/
+
+# IDE and OS files
+.idea/
+.DS_Store
+Thumbs.db
