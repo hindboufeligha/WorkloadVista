@@ -1,0 +1,2 @@
+# the current data-engineering pipeline uses only Python's standard library.
+# no third-party dependencies are required for now.
